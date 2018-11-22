@@ -8,3 +8,7 @@ This is a sample readme file for our GitHub Example repo..
 
 ## Linkki esimerkki
 [CodeTime](https://www.codetime.io)
+
+1. yksi
+2. kaksi
+3. kolome
